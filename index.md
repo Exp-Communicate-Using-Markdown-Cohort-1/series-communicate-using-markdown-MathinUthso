@@ -17,4 +17,7 @@ printf("Sum of a&b:%d",sum);
 return 0;
 }
 ```
+- [ ] Will I be happy about myself after 4 hours?
+- [ ] What I will be doing in next 4 hours?
+- [ ] Will I ever get friends Like GOOD FRIENDS?
  
